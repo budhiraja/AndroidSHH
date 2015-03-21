@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidSSH</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="login_string">Android SSH</string>
+    <string name="password_hint">Password</string>
+    <string name="domain_hint">Domain</string>
+    <string name="username_hint">Username</string>
+    <string name="submit_button">Submit</string>
+    <string name="title_activity_terminal">TerminalActivity</string>
+    <string name="shell_command">Type a Command</string>
+    <string name="result_button">Get Result</string>
+
+</resources>
